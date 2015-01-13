@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0-*",
+    "dependencies": {
+        "PagedList": "1.0.0-*"
+    },
+
+    "frameworks": {
+        "aspnet50": {
+            "dependencies": {
+                "Microsoft.AspNet.Mvc": "6.0.0-beta1",
+                "Microsoft.AspNet.WebPages": "2.0.20710.0"
+            }
+        }
+    }
+}
